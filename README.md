@@ -14,6 +14,7 @@
 
 ---
 ### Project Policy
-1. Use Python 3.11 with ``venv`` virtual environment, git ignore ``venv`` folder. 
-2. List all packages in ``requirements.txt``.
-3. Have a ``init_venv.sh`` to (re-)init virtual environment.  
+1. All project should be name as ``iharp-``.
+2. Use Python 3.11 with ``venv`` virtual environment, git ignore ``venv`` folder. 
+3. List all packages in ``requirements.txt``.
+4. Have a ``init_venv.sh`` to (re-)init virtual environment.  
