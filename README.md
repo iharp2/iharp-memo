@@ -18,3 +18,5 @@
 2. Use Python 3.11 with ``venv`` virtual environment, git ignore ``venv`` folder. 
 3. List all packages in ``requirements.txt``.
 4. Have a ``init_venv.sh`` to (re-)init virtual environment.  
+5. For collaborating repo, use **branch** to contribute. Ask Yuchuan/Youssef for pull request. 
+6. For solo repo, better pin Yuchuan/Youssef after a main push. 
