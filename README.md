@@ -15,7 +15,7 @@
   - E.g., "draw the average temperature heatmap of Green- land over the last year."
 - [ ] Time series query
   - "have a time series of a certain variable V over area A and time period T"
-  - E.g., "draw the average temperature heatmap of Green- land over the last year."
+  - E.g., "find the time series of the average, minimum, and maximum temperature in a certain part of Alaska over the last two years."
 
 ---
 
