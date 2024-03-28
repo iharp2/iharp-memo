@@ -21,12 +21,16 @@
 
 ## Action Roadmap
 
+#### pure-query
+- [ ] query execution on one raw file
+- [ ] query execution on multiple raw files
+- [ ] query execution with API calls
+- [ ] query execution with pre-aggregation
+
 #### pre-aggregation 
 - [ ] hard define a pre-aggregation rule (TOML format)
 - [ ] a ``do_pre_agg.py`` script
-- [ ] 
 
-#### 
 
 ---
 ### Project Policy
