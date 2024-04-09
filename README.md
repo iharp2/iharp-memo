@@ -1,3 +1,10 @@
+# Project Objective
+
+Save user efforts in:
+1. data exploration: be able to have a quick peek of any data, find area and time of your interests 
+2. data download: one word, fast
+3. data wrangling and manipulation: serve the date at desired range and resolution, (with proper masking)
+
 # Roadmap
 
 ## List of queries
