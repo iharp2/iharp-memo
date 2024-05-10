@@ -4,6 +4,11 @@ Save user efforts in:
 1. data exploration: be able to have a quick peek of any data, find area and time of your interests 
 2. data download: one word, fast
 3. data wrangling and manipulation: serve the date at desired range and resolution, (with proper masking)
+# TODO: Before Alaska Meeting
+1. Data Access Scheme Implementation: come up with area, resolution division of the data, which locations and which resolutions.
+2. Integrate more variables for longer time range, (maybe 2 variables for 24 years?!)
+3. Implement Get Area Query (including predicates), and other queries based on the new data access.
+
 
 # Roadmap
 
